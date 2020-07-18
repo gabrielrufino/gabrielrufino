@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/gabrielrufino/count.svg)
+<p align="center">
+  <a href="https://dev.to/gabrielrufino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tumee" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/gabrielrufinoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tuomo-kankaanp%c3%a4%c3%a4-2a0a9753/" height="20" width="20" /></a>
+</p>
 
 <!--
 **gabrielrufino/gabrielrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
