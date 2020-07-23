@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I believe we can make incredible things!
+
+
 <p align="center">
   <a href="https://dev.to/gabrielrufino" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tumee" height="20" width="20" /></a>
   <a href="https://www.linkedin.com/in/gabrielrufinoo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabrielrufinoo" height="20" width="20" /></a>
