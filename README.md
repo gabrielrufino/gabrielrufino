@@ -2,13 +2,6 @@
 
 I believe we can make incredible things!
 
-
-<p align="center">
-  <a href="https://dev.to/gabrielrufino" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tumee" height="20" width="20" /></a>
-  <a href="https://www.linkedin.com/in/gabrielrufinoo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabrielrufinoo" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/gabrielrufinoo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/gabrielrufinoo" height="20" width="20" /></a>
-</p>
-
 ---
 
 #### Audio Notes
@@ -19,6 +12,12 @@ Available on Google Play: [Download](https://play.google.com/store/apps/details?
 Website: https://audionotes.app/
 
 ---
+
+<p align="center">
+  <a href="https://dev.to/gabrielrufino" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tumee" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/gabrielrufinoo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabrielrufinoo" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/gabrielrufinoo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/gabrielrufinoo" height="20" width="20" /></a>
+</p>
 
 <!--
 **gabrielrufino/gabrielrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
