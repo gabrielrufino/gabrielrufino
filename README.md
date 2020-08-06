@@ -2,6 +2,8 @@
 
 I believe we can make incredible things!
 
+I'm a Fullstack Developer that loves javascript. 
+
 ---
 
 #### Audio Notes
