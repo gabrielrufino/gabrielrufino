@@ -34,7 +34,7 @@ export default {
 ```
 
 <details>
-  <summary><h3>Stats</h3></summary>
+  <h3><summary>Stats</summary></h3>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gabrielrufino" />
