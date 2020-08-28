@@ -34,13 +34,13 @@ export default {
 ```
 
 <details>
-  <summary>Stats</summary>
+  <summary><h3>Stats</h3></summary>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gabrielrufino" />
   </p>
   <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrufino)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrufino" />
   </p>
 </details>
 
