@@ -40,7 +40,7 @@ export default {
 Watch videos about my programming stack on my [channel](https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA).
 
 <div>
-  <img src="youtube.png" alt="YouTube" height="100" />
+  <img src="https://dyn-qrcode.vercel.app/api?url=https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA" alt="YouTube" height="100" />
   <a href="https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="100" /></a>
 </div>
 
