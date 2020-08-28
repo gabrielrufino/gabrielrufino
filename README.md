@@ -53,7 +53,7 @@ Read some articles that post on my [blog](http://www.gabrielrufino.com)
 🎙🗓 Manage your tasks and reminders on Audio!
 
 <div>
-  <img src="audio-notes.png" alt="Google Play" height="100" />
+  <img src="https://dyn-qrcode.vercel.app/api?url=https://play.google.com/store/apps/details?id=com.audionotes" alt="Google Play" height="100" />
   <a href="https://play.google.com/store/apps/details?id=com.audionotes" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" height="100" /></a>
 </div>
 
