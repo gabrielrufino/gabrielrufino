@@ -26,7 +26,10 @@ export default {
     'Play violin and acoustic guitar',
     'Make coffee drinks',
     'Watch movies'
-  ]
+  ],
+  learnMore (skill) {
+    this.stack.push(skill)
+  }
 }
 ```
 
