@@ -33,8 +33,16 @@ export default {
 }
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielrufino)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrufino)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>Stats</summary>
+
+  <p align="center">
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielrufino)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+  <p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrufino)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+</details>
 
 ---
 
