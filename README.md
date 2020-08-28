@@ -2,7 +2,9 @@
 
 ...and i believe we can make incredible things!
 
-### gabrielrufino.js
+### import gabrielrufino from 'gabrielrufino.js'
+
+Learn more about me by reading javascript
 
 ```js
 export default {
@@ -47,6 +49,11 @@ Watch videos about my programming stack on my [channel](https://www.youtube.com/
 ### Blog
 
 Read some articles that post on my [blog](http://www.gabrielrufino.com)
+
+<div>
+  <img src="https://dyn-qrcode.vercel.app/api?url=http://www.gabrielrufino.com" alt="Blog" height="100" />
+  <a href="http://www.gabrielrufino.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="100" /></a>
+</div>
 
 ### Audio Notes
 
