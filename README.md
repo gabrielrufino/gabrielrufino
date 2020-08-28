@@ -40,8 +40,8 @@ export default {
 Watch videos about my programming stack on my [channel](https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA).
 
 <p align="center">
-  <img src="./youtube.png" />
-  <a href="https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="200" width="20" /></a>
+  <img src="./youtube.png" height="150" />
+  <a href="https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="150" /></a>
 </p>
 
 ### Blog
