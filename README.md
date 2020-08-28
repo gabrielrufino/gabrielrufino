@@ -52,7 +52,11 @@ Read some articles that post on my [blog](http://www.gabrielrufino.com)
 
 🎙🗓 Manage your tasks and reminders on Audio!
 
-Available on Google Play: [Download](https://play.google.com/store/apps/details?id=com.audionotes) <br />
+<div>
+  <img src="./audio-notes.png" height="100" />
+  <a href="https://play.google.com/store/apps/details?id=com.audionotes" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" height="100" /></a>
+</div>
+
 Website: https://audionotes.app/
 
 ### Experts
