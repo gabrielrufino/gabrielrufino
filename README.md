@@ -1,15 +1,32 @@
-### Hi there 👋
+## Hey, i'm Gabriel Rufino... 👋
 
-I believe we can make incredible things!
+...and i believe we can make incredible things!
 
-- 🔭 I’m currently working on my [YouTube Channel](https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA)
-- 🌱 I’m currently learning how to edit videos
-- 👯 I’m looking to collaborate on the dissemination of quality content
-- 🤔 I’m looking for help with networking
-- 💬 Ask me about ['JavaScript', 'TypeScript', 'React', 'React Native', 'MongoDB', 'Node.js']
-- 📫 How to reach me: contato@gabrielrufino.com || Social Media (All my links below)
-- 😄 Pronouns: Him/His
-- ⚡ Fun fact: I play violin
+```js
+export default {
+  name: 'Gabriel Rufino',
+  from: 'Recife, PE, Brazil',
+  profession: 'Software Engineer',
+  blog: 'www.gabrielrufino.com',
+  youtube: 'https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA',
+  email: 'contato@gabrielrufino.com',
+  bornAt: '1999-04-04',
+  stack: [
+    'Javascript',
+    'React',
+    'React Native',
+    'Node.js',
+    'MongoDB',
+    'TypeScript'
+  ],
+  lovesCoffee: true,
+  hobbies: [
+    'Play violin and acoustic guitar',
+    'Make coffee drinks',
+    'Watch movies'
+  ]
+}
+```
 
 ---
 
