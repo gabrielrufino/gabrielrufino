@@ -2,7 +2,7 @@
 
 ...and i believe we can make incredible things!
 
-### import gabrielrufino from 'gabrielrufino.js'
+### gabrielrufino.js
 
 Learn more about me by reading javascript
 
