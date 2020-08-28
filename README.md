@@ -37,7 +37,7 @@ export default {
   <summary>Stats</summary>
 
   <p align="center">
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielrufino)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielrufino" />
   </p>
   <p align="center">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrufino)](https://github.com/anuraghazra/github-readme-stats)
