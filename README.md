@@ -33,29 +33,24 @@ export default {
 }
 ```
 
-<details>
-  <summary>Stats</summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrufino" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielrufino" />
-  </p>
-</details>
-
 ---
 
-#### Audio Notes
+### YouTube
+
+Watch videos about my programming stack on my [channel](https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA).
+
+### Blog
+
+Read some articles that post on my [blog](http://www.gabrielrufino.com)
+
+### Audio Notes
 
 🎙🗓 Manage your tasks and reminders on Audio!
 
 Available on Google Play: [Download](https://play.google.com/store/apps/details?id=com.audionotes) <br />
 Website: https://audionotes.app/
 
----
-
-#### Experts
+### Experts
 
 Project in development
 
