@@ -14,7 +14,7 @@ export default {
   blog: 'www.gabrielrufino.com',
   youtube: 'https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA',
   email: 'contato@gabrielrufino.com',
-  bornAt: '1999-04-04',
+  bornAt: '1999-07-04',
   stack: [
     'Javascript',
     'React',
