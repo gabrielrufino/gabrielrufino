@@ -37,15 +37,6 @@ export default {
 
 ---
 
-### YouTube
-
-Watch videos about my programming stack on my [channel](https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA).
-
-<div>
-  <img src="https://dyn-qrcode.vercel.app/api?url=https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA" alt="YouTube" height="100" />
-  <a href="https://www.youtube.com/channel/UCkuVj8LxhtKM7ANbxuf0lUA" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="100" /></a>
-</div>
-
 ### Blog
 
 Read some articles that post on my [blog](http://www.gabrielrufino.com)
@@ -54,21 +45,6 @@ Read some articles that post on my [blog](http://www.gabrielrufino.com)
   <img src="https://dyn-qrcode.vercel.app/api?url=http://www.gabrielrufino.com" alt="Blog" height="100" />
   <a href="http://www.gabrielrufino.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="100" /></a>
 </div>
-
-### Audio Notes
-
-🎙🗓 Manage your tasks and reminders on Audio!
-
-<div>
-  <img src="https://dyn-qrcode.vercel.app/api?url=https://play.google.com/store/apps/details?id=com.audionotes" alt="Google Play" height="100" />
-  <a href="https://play.google.com/store/apps/details?id=com.audionotes" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" height="100" /></a>
-</div>
-
-Website: https://audionotes.app/
-
-### Experts
-
-Project in development
 
 ---
 
