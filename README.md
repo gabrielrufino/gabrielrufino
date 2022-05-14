@@ -2,8 +2,7 @@
 
 <img align="left" alt="Octocat" width="200px" src="./assets/octocat.png" />
 
-Read is sometimes boring, making HTTP requests is always. 
-The challenge is getting to know me using requests to this API. You ready?
+Read is sometimes boring, making HTTP requests is always awesome. **The challenge is getting to know me using requests to this API.** You ready?
 
 ### Getting started
 
