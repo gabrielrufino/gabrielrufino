@@ -1,5 +1,7 @@
 ## Gabriel Rufino's API
 
+<img align="right" alt="Octocat" width="200px" src="./assets/octocat.png" />
+
 Where you can know a little about me
 
 ### Getting started
