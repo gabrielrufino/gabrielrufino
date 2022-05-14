@@ -8,9 +8,9 @@ Where you can know a little about me
 
 **Request:**
 ```bash
-$ BASE_URL=https://raw.githubusercontent.com/gabrielrufino/gabrielrufino
-$ curl $BASE_URL/api/general \
-    -H Accept: application/json
+$ BASE_URL="https://raw.githubusercontent.com/gabrielrufino/gabrielrufino/master"
+$ curl $BASE_URL/api/infos/general \
+    -H "Accept: application/json"
 ```
 
 **Response 200:**
@@ -33,7 +33,7 @@ $ curl $BASE_URL/api/general \
 
 ```bash
 $ curl $BASE_URL/api/infos/stack \
-    -H Accept: application/json
+    -H "Accept: application/json"
 ```
 
 > GET `/api/infos/hobbies`
@@ -42,7 +42,7 @@ $ curl $BASE_URL/api/infos/stack \
 
 ```bash
 $ curl $BASE_URL/api/infos/hobbies \
-    -H Accept: application/json
+    -H "Accept: application/json"
 ```
 
 > GET `/api/infos/contact`
@@ -51,7 +51,7 @@ $ curl $BASE_URL/api/infos/hobbies \
 
 ```bash
 $ curl $BASE_URL/api/infos/contact \
-    -H Accept: application/json
+    -H "Accept: application/json"
 ```
 
 ---
