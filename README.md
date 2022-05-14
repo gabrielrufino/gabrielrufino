@@ -1,10 +1,9 @@
 ## Gabriel Rufino's API
 
-<img align="right" alt="Octocat" width="200px" src="./assets/octocat.png" />
+<img align="left" alt="Octocat" width="200px" src="./assets/octocat.png" />
 
-Where you can know a little about me
-
-<br />
+Read is sometimes boring, making HTTP requests is always. 
+The challenge is getting to know me using requests to this API. You ready?
 
 ### Getting started
 
