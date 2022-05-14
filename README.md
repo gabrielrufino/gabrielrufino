@@ -27,34 +27,14 @@ $ curl $BASE_URL/api/infos/general \
 }
 ```
 
-### Another endpoints
+### Endpoints
 
-> GET `/api/infos/stack`
-
-**Request:**
-
-```bash
-$ curl $BASE_URL/api/infos/stack \
-    -H "Accept: application/json"
-```
-
-> GET `/api/infos/hobbies`
-
-**Request:**
-
-```bash
-$ curl $BASE_URL/api/infos/hobbies \
-    -H "Accept: application/json"
-```
-
-> GET `/api/infos/contact`
-
-**Request:**
-
-```bash
-$ curl $BASE_URL/api/infos/contact \
-    -H "Accept: application/json"
-```
+| Method | Endpoint             | Description                                                      |
+| ------ | -------------------- | ---------------------------------------------------------------- |
+| GET    | `/api/infos/general` | Returns general information about me                             |
+| GET    | `/api/infos/stack`   | Returns the list of technologies that I work with                |
+| GET    | `/api/infos/hobbies` | Returns the list of things I love to do when I'm not programming |
+| GET    | `/api/infos/contact` | Returns the list of ways you can talk to me                      |
 
 ---
 
