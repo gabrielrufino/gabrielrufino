@@ -4,6 +4,8 @@
 
 Where you can know a little about me
 
+<br />
+
 ### Getting started
 
 > GET `/api/infos/general`
