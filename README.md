@@ -6,7 +6,13 @@ Read is sometimes boring, making HTTP requests is always awesome. **The challeng
 
 ### Getting started
 
-> GET `/api/infos/general`
+I'll help you with the first endpoint: general informations about me.
+
+> **GET `/api/infos/general`**
+
+The base URL for all endpoints is `https://raw.githubusercontent.com/gabrielrufino/gabrielrufino/master`. Remember to preffix the endpoint using that base URL.
+
+Let's make the request using `curl`:
 
 **Request:**
 ```bash
