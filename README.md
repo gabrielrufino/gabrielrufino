@@ -8,7 +8,9 @@ Read is sometimes boring, making HTTP requests is always awesome. **The challeng
 
 I'll help you with the first endpoint: general informations about me.
 
-> **GET `/api/infos/general`**
+> GET `/api/infos/general`
+
+<br />
 
 The base URL for all endpoints is `https://raw.githubusercontent.com/gabrielrufino/gabrielrufino/master`. Remember to preffix the endpoint using that base URL.
 
