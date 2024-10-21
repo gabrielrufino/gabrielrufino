@@ -1,9 +1,10 @@
 [
   "Javascript",
+  "React",
   "Node.js",
   "MongoDB",
   "TypeScript",
-  "Postgres",
+  "PostgreSQL",
   "MySQL",
   "Rust"
 ]
