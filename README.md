@@ -18,21 +18,9 @@ Let's make the request using `curl`:
 
 **Request:**
 ```bash
-$ BASE_URL="https://raw.githubusercontent.com/gabrielrufino/gabrielrufino/master"
-$ curl $BASE_URL/api/infos/general \
-    -H "Accept: application/json"
-```
-
-**Response 200:**
-```json
-{
-  "name": "Gabriel Rufino",
-  "profession": "Software Engineer",
-  "from": "Recife, PE, Brazil",
-  "email": "contato@gabrielrufino.com",
-  "blog": "www.gabrielrufino.com",
-  "created_at": "1999-07-04"
-}
+BASE_URL="https://raw.githubusercontent.com/gabrielrufino/gabrielrufino/master"
+curl $BASE_URL/api/infos/general \
+  -H "Accept: application/json"
 ```
 
 ### Endpoints
